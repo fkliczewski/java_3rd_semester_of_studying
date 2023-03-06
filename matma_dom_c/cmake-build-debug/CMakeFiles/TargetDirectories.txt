@@ -1,0 +1,3 @@
+C:/Users/Filip/Documents/ProgramowanieJAVA_ZAW/matma_dom_c/cmake-build-debug/CMakeFiles/matma_dom_c.dir
+C:/Users/Filip/Documents/ProgramowanieJAVA_ZAW/matma_dom_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Filip/Documents/ProgramowanieJAVA_ZAW/matma_dom_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
